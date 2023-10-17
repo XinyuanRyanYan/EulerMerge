@@ -41,7 +41,7 @@ python app.py
 ```
 After running the above commands, you can access the interative visualization demo by visiting http://127.0.0.1:5000/ on the local machine (If possible, please use Chrome). You will see the interface like the one below.
 
-![interface](./smoothEuler/Interface.png)
+![interface](./smoothEuler/interface.png)
 
 
 * `Triangulation` allows to visualize the triangulation of the Euler disgram, which indicate how an Euler diagram is derived.
