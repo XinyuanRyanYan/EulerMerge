@@ -42,6 +42,6 @@ After running the above commands, you can access the interative visualization de
 
 ![interface](./smoothEuler/interface.png)
 
-* `Triangulation` allows to visualize the triangulation of the Euler disgram, which indicate how an Euler disgram is derived.
+* `Triangulation` allows to visualize the triangulation of the Euler disgram, which indicate how an Euler diagram is derived.
 * `Zone graph` allows to visualize the zone graph.
-* `Iteration` and `Distance` are parameters of the EulerSmooth algorithm, allowing to control the number of smoothing cycles performed, and the distance between nodes and curves, repectively.
+* `Iteration` and `Distance` are parameters of the EulerSmooth algorithm, allowing to control the number of smoothing cycles performed, and the distance between nodes and curves, respectively.
