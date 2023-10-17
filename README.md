@@ -31,6 +31,7 @@ pip install flask
 pip install matplotlib
 pip install JPype1
 pip install networkx
+pip install shapely
 ```
 
 ### Running the code
